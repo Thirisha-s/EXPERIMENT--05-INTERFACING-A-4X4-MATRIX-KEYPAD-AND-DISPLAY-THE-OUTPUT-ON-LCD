@@ -1,6 +1,6 @@
 
 ```python
-Name : S.thirisha
+Name : THIRISHA.S
 Ref No.: 212222230160
 ```
 
